@@ -1,6 +1,6 @@
 # Sudo-X
 
-This Sudoku solver written in Pascal was my Matura project in 2006.
+This Sudoku solver written in Pascal was my Matura project in 2006 at Gymnasium Friedberg.
 
 It's consisting of a GUI where you can generate new Sudokus, solve them and get help if you don't know further. The Sudoku generation is achieved by using [Knuth's Algorith X](https://en.wikipedia.org/wiki/Knuth%27s_Algorithm_X) and backtracking.
 
